@@ -1,5 +1,7 @@
 ### Hey there 👋 my name is Usman
 
+
+<!-- 
 - 🔭 I’m currently working on creating freelance websites for local San Francisco businesses
 - 🌱 I’m currently learning React Hooks & Typescript
 - 👯 I’m looking to collaborate with people
@@ -7,5 +9,5 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-hameed-5486b11b0/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born and raised in San Francisco, the greatest city in the world!
-
+ -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)
