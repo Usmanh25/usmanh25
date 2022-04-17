@@ -6,7 +6,6 @@
 - 💬 Ask me about anything Basketball or Mixed Martial Arts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-hameed-5486b11b0/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: San Francisco born and raised
-
+- ⚡ Fun fact: I was born and raised in San Francisco, the greatest city in the world!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)
