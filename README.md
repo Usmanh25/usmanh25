@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born and raised in San Francisco, the greatest city in the world!
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight" />
+ <img align="left" width="50%"src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight" />
  <img align="left" width="47%" height="196px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact" />
