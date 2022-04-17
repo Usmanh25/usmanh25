@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I was born and raised in San Francisco, the greatest city in the world!
 
  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight" />
- <img align="left" width="350px" height="225px" "src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact" />
+ <img align="left" width="350px" height="200px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact" />
