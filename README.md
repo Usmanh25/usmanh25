@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Hooks & Typescript
 - 👯 I’m looking to collaborate with people
 - 💬 Ask me about anything Basketball or Mixed Martial Arts
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-hameed-5486b11b0/)
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born and raised in San Francisco, the greatest city in the world!
 
