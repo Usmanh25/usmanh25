@@ -9,10 +9,10 @@
  <img align="left" width="450px" height="220px" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight" />
  <img align="left" width="350px" height="220px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact&theme=tokyonight" />
  
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
  
  ### Contact Me:
 <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
