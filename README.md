@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Hooks & Typescript
 - 👯 I’m looking to collaborate with people
 - 💬 Ask me about anything Basketball or Mixed Martial Arts
-- ⚡ Fun fact: I was born and raised in San Francisco, the best city in the world!
+- ⚡ Fun fact: I was born and raised in San Francisco, the best city in the world
 
  ### Contact Me:
 <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
