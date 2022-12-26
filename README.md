@@ -1,27 +1,12 @@
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img>
+<!-- <img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img> -->
  
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
  
-<h1 align="center">Hi, I'm Usman</h1>
+<h1 align="center">Hey 👨‍💻 I'm Usman</h1>
 <h3 align="center">A software engineer from San Francisco</h3>
 
-## Hey 👋 I'm Usman
-
-- 🔭 I’m currently working on creating freelance websites for local San Francisco businesses
-- 🌱 I’m currently learning React Hooks & Typescript
-- 👯 I’m looking to collaborate with people
-- 💬 Ask me about anything Basketball or Mixed Martial Arts
-- ⚡ Fun fact: I was born and raised in San Francisco, the best city in the world!
- 
-# 👨‍💻 Usman Hameed
-
-**`Software Engineer`** 
-
-
 <div align="center" m="auto">
- <h1 align="center">Hi, I'm Usman</h1>
- <h3 align="center">A software engineer from San Francisco</h3>
  <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
  </a> 
@@ -31,11 +16,11 @@
  <a target="_blank" href="https://angel.co/u/usman-hameed-2">
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
  </a>
-</div>
-
 <br></br>
-#
-
+ <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
+<br></br>
+ <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura">
+</div>
  
 <h3 align="center">Languages and Tools</h3>
 
@@ -87,16 +72,10 @@
 
 | **`FightCultureSF`**  | 
 | ------------- | 
-| <a href="http://fightculturesf.com/" target="_blank"><img width="475" src="https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png"></img></a>  | 
+| <a href="http://fightculturesf.com/" target="_blank"><img width="440" src="https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png"></img></a>  | 
 | Professional Project  | 
 
 <br></br>
 
 
 #
-
-### 📊 Stats
-#
-
-### 📊 Stats
-
