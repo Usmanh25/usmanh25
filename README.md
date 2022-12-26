@@ -19,7 +19,8 @@
 
 **`Software Engineer`** -->
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
+
 
 <div align="center" m="auto">
  <h1 align="center">Hi, I'm Usman</h1>
