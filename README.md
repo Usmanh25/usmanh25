@@ -1,36 +1,84 @@
-## Hey there 👋 my name is Usman
+<img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img>
+ 
+<h1 align="center">Hi, I'm Usman</h1>
+<h3 align="center">A software engineer from San Francisco</h3>
+
+<!-- ## Hey 👋 I'm Usman
 
 - 🔭 I’m currently working on creating freelance websites for local San Francisco businesses
 - 🌱 I’m currently learning React Hooks & Typescript
 - 👯 I’m looking to collaborate with people
 - 💬 Ask me about anything Basketball or Mixed Martial Arts
 - ⚡ Fun fact: I was born and raised in San Francisco, the best city in the world!
+ -->
+ 
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
+
+<!-- # 👨‍💻 Usman Hameed
+
+**`Software Engineer`** -->
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
+
 
  ### Contact Me:
 <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> <a target="_blank" href="mailto:usmanhvmeed@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a target="_blank" href="mailto:usmanhvmeed@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
- 
- <img align="left" width="450px" height="220px" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight" />
- <img align="left" width="350px" height="220px "src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact&theme=tokyonight" />
- 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)  
+<a target="_blank" href="https://angel.co/u/usman-hameed-2">
+ <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
+</a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
  
 <!--  ### Contact Me:
 <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> <a target="_blank" href="mailto:usmanhvmeed@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> -->
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a target="_blank" href="mailto:usmanhvmeed@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> 
+<a target="_blank" href="https://angel.co/u/usman-hameed-2">
+ <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
+</a>
+
+-->
+
 
   
- ### Languages and Familiarities:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+### 🧰 Languages and Tools
+
+<img align="left" alt="JS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="Node" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="left" alt="Ruby" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+<img align="left" alt="Rails" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+<img align="left" alt="X" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="NJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" alt="TW" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="MDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="S" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="left" alt="JQ" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" alt="RS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="left" alt="GC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<br />
+#
+
+### Projects
+
+PROJECTS HERE
+
+#
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
