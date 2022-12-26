@@ -1,9 +1,10 @@
 
 <!-- <img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img> -->
  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
+<img align="right" alt="Musrooms" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
  
 <h1 align="center">Hey 👨‍💻 I'm Usman</h1>
+
 <h3 align="center">A software engineer from San Francisco</h3>
 
 <div align="center" m="auto">
@@ -21,6 +22,8 @@
 <br></br>
  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura">
 </div>
+
+#
  
 <h3 align="center">Languages and Tools</h3>
 
@@ -46,29 +49,19 @@
 <img align="left" alt="NPM" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="VSC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br></br>
-
-<br></br>
-
-<br></br>
-
 # 
 
 <h3 align="center">Projects</h3>
 
-
-
-
-
 | **`Big Fish Little Fish`**   | **`NoiseCloud`** |
 | ------------- | ------------- |
 | <a href="https://usmanh25.github.io/bigfishlittlefish/" target="_blank"><img width="500" src="https://user-images.githubusercontent.com/89363938/209523963-c37e1711-b80a-48d6-8eac-e496a417010e.png"></img></a>  | <a target="_blank" href="http://noisecloud.herokuapp.com/"><img src="https://user-images.githubusercontent.com/89363938/209525559-2ea35b1e-2b93-4cf4-bd57-9bc1235a0d9d.png" width="500"></img></a>  |
-| a JavaScript game  | a Music App  |
+| <img alt="JS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  | a Music App  |
 
 | **`VidTok`**  | **`SelfBook`** |
 | ------------- | ------------- |
 | <a href="https://vidtok-eta.vercel.app/" target="_blank"><img width="500" src="https://user-images.githubusercontent.com/89363938/209525665-df4a7061-64d7-471b-bf86-61a964004e87.png"></img></a>  | <a target="_blank" href="https://selfbooksb.herokuapp.com/"><img src="https://user-images.githubusercontent.com/89363938/209525714-12ca376a-a3e5-4826-b380-7820bb0bee85.png" width="500"></img></a>  |
-| a Video app  | a Photo App  |
+| a TypeScript Project  | a MERN Stack App  |
 
 | **`FightCultureSF`**  | 
 | ------------- | 
