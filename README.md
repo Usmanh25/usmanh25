@@ -68,7 +68,22 @@
 
 <br></br>
 
+<br></br>
+
+<br></br>
+
 # 
+
+<h3 align="center">Projects</h3>
+
+
+<div align="left" width="200">
+ <p align="center">Big Fish, Little Fish</p>
+ <a href="https://usmanh25.github.io/bigfishlittlefish/" target="_blank">
+  <img width="200" src="https://user-images.githubusercontent.com/89363938/209523963-c37e1711-b80a-48d6-8eac-e496a417010e.png">
+  </img>
+ </a>
+</div>
 
 <h3 align="center">Projects</h3>
 
@@ -76,6 +91,15 @@
  <h3>Project Name</h3>
 </div>
 
+
+<!-- ![NoiseCloud](https://user-images.githubusercontent.com/89363938/209525559-2ea35b1e-2b93-4cf4-bd57-9bc1235a0d9d.png)
+http://noisecloud.herokuapp.com/
+![FightCulture](https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png)
+http://fightculturesf.com/
+![VitTok](https://user-images.githubusercontent.com/89363938/209525665-df4a7061-64d7-471b-bf86-61a964004e87.png)
+https://vidtok-eta.vercel.app/
+![SelfBook](https://user-images.githubusercontent.com/89363938/209525714-12ca376a-a3e5-4826-b380-7820bb0bee85.png)
+https://selfbooksb.herokuapp.com/ -->
 #
 
 ### 📊 Stats
