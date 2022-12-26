@@ -69,6 +69,6 @@
 
 | **`FightCultureSF`**  | 
 | ------------- | 
-| <a href="http://fightculturesf.com/" target="_blank"><img width="375" src="https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png"></img></a>  | 
+| <a href="http://fightculturesf.com/" target="_blank"><img width="395" src="https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png"></img></a>  | 
 | <img alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><img alt="NJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>  | 
 | Professional Project  | 
