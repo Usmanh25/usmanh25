@@ -1,7 +1,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img>
  
-<h1 align="center">Hi, I'm Usman</h1>
-<h3 align="center">A software engineer from San Francisco</h3>
+<!-- <h1 align="center">Hi, I'm Usman</h1>
+<h3 align="center">A software engineer from San Francisco</h3> -->
 
 <!-- ## Hey 👋 I'm Usman
 
@@ -20,36 +20,25 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
 
+<div align="center" m="auto">
+ <h1 align="center">Hi, I'm Usman</h1>
+ <h3 align="center">A software engineer from San Francisco</h3>
+ <a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
+ <a target="_blank" href="mailto:usmanhvmeed@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+ <a target="_blank" href="https://angel.co/u/usman-hameed-2">
+  <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
+ </a>
+</div>
 
- ### Contact Me:
-<a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a target="_blank" href="mailto:usmanhvmeed@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a target="_blank" href="https://angel.co/u/usman-hameed-2">
- <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
-</a>
-
+<br></br>
+#
 
  
-<!--  ### Contact Me:
-<a target="_blank" href="https://www.linkedin.com/in/usman-hameed-5486b11b0/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a target="_blank" href="mailto:usmanhvmeed@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-<a target="_blank" href="https://angel.co/u/usman-hameed-2">
- <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
-</a>
-
--->
-
-
-  
-### 🧰 Languages and Tools
+<h3 align="center">Languages and Tools</h3>
 
 <img align="left" alt="JS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -69,16 +58,26 @@
 <img align="left" alt="RS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original-wordmark.svg" />
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="GC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<br />
-#
+<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="NPM" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="VSC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-### Projects
+<br></br>
 
-PROJECTS HERE
+<br></br>
+
+# 
+
+<h3 align="center">Projects</h3>
+
+<div> 
+ <h3>Project Name</h3>
+</div>
 
 #
 
 ### 📊 Stats
+#
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanh25&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+
