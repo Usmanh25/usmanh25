@@ -1,25 +1,22 @@
-<!-- 
+
 <img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img>
  
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif">
+ 
 <h1 align="center">Hi, I'm Usman</h1>
-<h3 align="center">A software engineer from San Francisco</h3> -->
+<h3 align="center">A software engineer from San Francisco</h3>
 
-<!-- ## Hey 👋 I'm Usman
+## Hey 👋 I'm Usman
 
 - 🔭 I’m currently working on creating freelance websites for local San Francisco businesses
 - 🌱 I’m currently learning React Hooks & Typescript
 - 👯 I’m looking to collaborate with people
 - 💬 Ask me about anything Basketball or Mixed Martial Arts
 - ⚡ Fun fact: I was born and raised in San Francisco, the best city in the world!
- -->
  
-<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
+# 👨‍💻 Usman Hameed
 
-<!-- # 👨‍💻 Usman Hameed
-
-**`Software Engineer`** -->
-
-<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
+**`Software Engineer`** 
 
 
 <div align="center" m="auto">
@@ -70,36 +67,32 @@
 
 <br></br>
 
-<br></br>
-
 # 
 
 <h3 align="center">Projects</h3>
 
 
-<div align="left" width="200">
- <p align="center">Big Fish, Little Fish</p>
- <a href="https://usmanh25.github.io/bigfishlittlefish/" target="_blank">
-  <img width="200" src="https://user-images.githubusercontent.com/89363938/209523963-c37e1711-b80a-48d6-8eac-e496a417010e.png">
-  </img>
- </a>
-</div>
-
-<h3 align="center">Projects</h3>
-
-<div> 
- <h3>Project Name</h3>
-</div>
 
 
-<!-- ![NoiseCloud](https://user-images.githubusercontent.com/89363938/209525559-2ea35b1e-2b93-4cf4-bd57-9bc1235a0d9d.png)
-http://noisecloud.herokuapp.com/
-![FightCulture](https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png)
-http://fightculturesf.com/
-![VitTok](https://user-images.githubusercontent.com/89363938/209525665-df4a7061-64d7-471b-bf86-61a964004e87.png)
-https://vidtok-eta.vercel.app/
-![SelfBook](https://user-images.githubusercontent.com/89363938/209525714-12ca376a-a3e5-4826-b380-7820bb0bee85.png)
-https://selfbooksb.herokuapp.com/ -->
+
+| **`Big Fish Little Fish`**   | **`NoiseCloud`** |
+| ------------- | ------------- |
+| <a href="https://usmanh25.github.io/bigfishlittlefish/" target="_blank"><img width="500" src="https://user-images.githubusercontent.com/89363938/209523963-c37e1711-b80a-48d6-8eac-e496a417010e.png"></img></a>  | <a target="_blank" href="http://noisecloud.herokuapp.com/"><img src="https://user-images.githubusercontent.com/89363938/209525559-2ea35b1e-2b93-4cf4-bd57-9bc1235a0d9d.png" width="500"></img></a>  |
+| a JavaScript game  | a Music App  |
+
+| **`VidTok`**  | **`SelfBook`** |
+| ------------- | ------------- |
+| <a href="https://vidtok-eta.vercel.app/" target="_blank"><img width="500" src="https://user-images.githubusercontent.com/89363938/209525665-df4a7061-64d7-471b-bf86-61a964004e87.png"></img></a>  | <a target="_blank" href="https://selfbooksb.herokuapp.com/"><img src="https://user-images.githubusercontent.com/89363938/209525714-12ca376a-a3e5-4826-b380-7820bb0bee85.png" width="500"></img></a>  |
+| a Video app  | a Photo App  |
+
+| **`FightCultureSF`**  | 
+| ------------- | 
+| <a href="http://fightculturesf.com/" target="_blank"><img width="475" src="https://user-images.githubusercontent.com/89363938/209525633-f8506fa7-0cc5-49e1-b1e8-cf9dc1235e91.png"></img></a>  | 
+| Professional Project  | 
+
+<br></br>
+
+
 #
 
 ### 📊 Stats
