@@ -1,6 +1,7 @@
+<!-- 
 <img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" width="100%" height="400px"></img>
  
-<!-- <h1 align="center">Hi, I'm Usman</h1>
+<h1 align="center">Hi, I'm Usman</h1>
 <h3 align="center">A software engineer from San Francisco</h3> -->
 
 <!-- ## Hey 👋 I'm Usman
