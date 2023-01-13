@@ -1,5 +1,5 @@
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" height="400px"></img> 
+<img src="https://external-preview.redd.it/SztIpL6L02QbUmFvUfk49zRpfOEGsdZ_uxl4LxIDH1Q.jpg?auto=webp&v=enabled&s=71998a94776a4d939194fea0cac0aa8ff3e90c95" width="100%" height="400px"></img> 
  
 <!-- <img align="right" style="padding-top:1000px;" alt="Musrooms" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
  
@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
  </a>
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats.vercel-sigma-five.app/api?username=usmanh25&theme=aura">
 </div>
 
 #
