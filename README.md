@@ -20,7 +20,7 @@
 <br></br>
  <img width="400" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats.vercel-sigma-five.app/api?username=usmanh25&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=usmanh25&theme=aura">
 </div>
 
 #
