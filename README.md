@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
  </a>
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=usmanh25&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura">
 </div>
 
 #
