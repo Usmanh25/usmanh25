@@ -1,5 +1,5 @@
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" style="margin-bottom:-600px;" width="100%" height="400px"></img>
+<img src="https://images.squarespace-cdn.com/content/v1/5ab926f8a9e0287fbf928015/1568182761400-OZ8ZTLLTMIN7KKQ1ZI86/WIRED-ScienceLSD-AnimatedGIF-Credit-twelveofour.gif?format=2500w" height="400px"></img> 
  
 <!-- <img align="right" style="padding-top:1000px;" alt="Musrooms" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
  
