@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
  </a>
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
+<!--  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
 <br></br>
- <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura">
+ <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=usmanh25&theme=aura"> -->
 </div>
 
 #
  
-<h1 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <img align="left" alt="JS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -56,7 +56,7 @@
 <br></br>
 # 
 
-<h1 align="center">Projects</h3>
+<h3 align="center">Projects</h3>
 
 | **`Big Fish Little Fish`**   | **`NoiseCloud`** |
 | ------------- | ------------- |
