@@ -1,5 +1,5 @@
-
-<img src="https://external-preview.redd.it/SztIpL6L02QbUmFvUfk49zRpfOEGsdZ_uxl4LxIDH1Q.jpg?auto=webp&v=enabled&s=71998a94776a4d939194fea0cac0aa8ff3e90c95" width="100%" height="400px"></img> 
+<!-- 
+<img src="https://external-preview.redd.it/SztIpL6L02QbUmFvUfk49zRpfOEGsdZ_uxl4LxIDH1Q.jpg?auto=webp&v=enabled&s=71998a94776a4d939194fea0cac0aa8ff3e90c95" width="100%" height="400px"></img>  -->
  
 <!-- <img align="right" style="padding-top:1000px;" alt="Musrooms" width="300" src="https://media.giphy.com/media/6ieS4mWVmfZUQ/giphy.gif"> -->
  
@@ -17,6 +17,10 @@
  <a target="_blank" href="https://angel.co/u/usman-hameed-2">
   <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
  </a>
+ <br></br>
+
+ 
+<img src="https://external-preview.redd.it/SztIpL6L02QbUmFvUfk49zRpfOEGsdZ_uxl4LxIDH1Q.jpg?auto=webp&v=enabled&s=71998a94776a4d939194fea0cac0aa8ff3e90c95" width="100%" height="400px"></img> 
 <br></br>
 <!--  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanh25&langs_count=6&exclude_repo=fightculturellc&layout=compact&theme=aura">
 <br></br>
